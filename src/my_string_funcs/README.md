@@ -1,0 +1,1 @@
+A python module to do some silly functions on strings.
