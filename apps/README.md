@@ -1,0 +1,1 @@
+The idea is that (as much as possible) code and logic specific to each app would live in its own `app_<name>.py` file in here.

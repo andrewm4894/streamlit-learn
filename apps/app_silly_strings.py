@@ -28,7 +28,8 @@ def create_inputs(app_page=None):
 
 def render_results(inputs=None, app_page=None):
     st.image(logo)
-    st.markdown('<style>body{background-color: Yellow;}</style>', unsafe_allow_html=True)
+    # apply some simple styling to the page
+    #st.markdown('<style>body{background-color: Yellow;}</style>', unsafe_allow_html=True)
     st.markdown('## Make it all yellow!!!')
     st.write(f'Page is: {say_hello(app_page)}')
     if app_page == 'uppercase it':

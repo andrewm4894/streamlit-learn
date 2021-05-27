@@ -1,0 +1,1 @@
+This is where your assets like images etc that you app uses would live.
