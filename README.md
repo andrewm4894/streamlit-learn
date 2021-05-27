@@ -15,6 +15,7 @@ This is a silly dumb streamlit app to try and show an example of a few things:
 - Some functions to do stuff with the inputs.
 
 Blog post: https://andrewm4894.com/2021/05/27/streamlit-multi-page-app-minimal-example/
+App running on Streamlit sharing: https://share.streamlit.io/andrewm4894/streamlit-learn/main/app.py
 
 ### Apps
 
