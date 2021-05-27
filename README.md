@@ -14,6 +14,8 @@ This is a silly dumb streamlit app to try and show an example of a few things:
 - Have dynamic inputs that can vary in types and number of inputs depending on each page.
 - Some functions to do stuff with the inputs.
 
+Blog post: https://andrewm4894.com/2021/05/27/streamlit-multi-page-app-minimal-example/
+
 ### Apps
 
 These are meant to be very dumb and pointless app's :) 
