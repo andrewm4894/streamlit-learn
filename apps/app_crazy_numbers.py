@@ -19,6 +19,7 @@ def create_inputs(app_page=None):
 
 
 def render_results(inputs=None, app_page=None):
+    st.title(f"{app_dict['name']}")
     st.image(logo)
     st.write(f'## {app_page}')
     if app_page == 'make it yuge':
